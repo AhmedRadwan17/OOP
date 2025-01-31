@@ -24,5 +24,5 @@ int main()
    // Printing Not Static  Function 
     cout<<A1.Fun2()<<endl;
     // It has been Mistake 
-    cout<<clsA::Fun2();
+   // cout<<clsA::Fun2();
 }
